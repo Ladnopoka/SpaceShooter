@@ -17,3 +17,4 @@ Space Shooter Game is a retro-style 2D shooter where the player controls a space
 ## Prerequisites
 - Processing IDE to run the code file
   
+![Space Shooter Screenshot](https://github.com/Ladnopoka/SpaceShooter/blob/main/space_shooter_1.png)
