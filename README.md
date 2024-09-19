@@ -1,7 +1,7 @@
 # Space Shooter Game
 Space Shooter Game is a retro-style 2D shooter where the player controls a spaceship and shoots incoming meteors. This project was developed using Processing during the first year of my university studies.
 
-![Space Shooter Screenshot](https://github.com/YourUsername/YourRepoName/blob/main/images/space_shooter_1.png)(https://github.com/Ladnopoka/SpaceShooter/blob/main/space_shooter_2.png)
+![Space Shooter Screenshot](https://github.com/Ladnopoka/SpaceShooter/blob/main/space_shooter_2.png)
 
 ## Features
 - **Spaceship Controls**: Move the spaceship using the arrow keys (left, right, up, down) and shoot lasers with the space bar.
